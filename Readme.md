@@ -1,3 +1,8 @@
+This is a series of projects where I solve AI gym environments by building RL algorithms from scratch using Python, Pytorch and Tensorflow
+
+#Exercise
+Use the Q-Learning algorithm to solve the Acrobot-v1 environment using Tile Coding approaches
+
 # Acrobot-v1
 [![Watch the video](https://j.gifs.com/QkOG3Z.gif)](https://gym.openai.com/videos/2019-10-21--mqt8Qj1mwo/Acrobot-v1/original.mp4)
 ## Environment:
